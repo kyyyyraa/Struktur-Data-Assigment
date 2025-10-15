@@ -128,13 +128,13 @@ penjelasan singkat  3
 Program C++ ini bertujuan untuk membuat sebuah pola angka simetris (mirrored pattern) yang menurun berdasarkan input dari pengguna. Setelah pengguna memasukkan sebuah bilangan bulat, program akan menghasilkan serangkaian baris. Setiap baris menampilkan dua urutan angka yang dipisahkan oleh simbol asterisk (*): urutan pertama menurun dari angka baris saat itu ke 1, dan urutan kedua menaik dari 1 kembali ke angka baris tersebut. Pola ini terus menyusut di setiap baris berikutnya hingga mencapai 1, dan diakhiri dengan satu simbol * di bagian paling bawah.
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-2/Output-1-1.jpg)
+![Screenshot Output 1](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-1/Output-1-1.jpg)
 
 ##### Output 2
-![Screenshot Output Unguided 1_1](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-2/Output-1-2.jpg)
+![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-1/Output-1-2.jpg)
 
 ##### Output 3
-![Screenshot Output Unguided 1_1](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-2/Output-1-3.jpg)
+![Screenshot Output 3](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-1/Output-1-3.jpg)
 
 
 ## Kesimpulan
@@ -144,4 +144,5 @@ Program C++ ini bertujuan untuk membuat sebuah pola angka simetris (mirrored pat
 [1]
 <br>Asyiknya Belajar Struktur Data di Planet C++. (n.d.). (n.p.):
 Elex Media Komputindo.
+
 <br>
