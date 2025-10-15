@@ -239,13 +239,13 @@ penjelasan singkat  3
 Program C++ ini dirancang sebagai alat bantu berbasis menu untuk melakukan analisis statistik sederhana pada sekumpulan data dari sepuluh angka. Fungsi-fungsi utamanya meliputi kemampuan untuk menampilkan seluruh data, menemukan nilai tertinggi dan terendah, serta menghitung rata-ratanya. Interaksinya dibuat terus-menerus, sehingga pengguna bisa memilih berbagai operasi sampai akhirnya memutuskan untuk keluar dari program.
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-2/Output-2-1.png)
+![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-2/Output-2-1.jpg)
 
 ##### Output 2
-![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-2/Output-2-2.png)
+![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-2/Output-2-2.jpg)
 
 ##### Output 3
-![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-2/Output-2-3.png)
+![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-2/Output-2-3.jpg)
 
 
 ## Kesimpulan
@@ -255,4 +255,5 @@ Program C++ ini dirancang sebagai alat bantu berbasis menu untuk melakukan anali
 [1]
 <br>Asyiknya Belajar Struktur Data di Planet C++. (n.d.). (n.p.):
 Elex Media Komputindo.
+
 <br>
