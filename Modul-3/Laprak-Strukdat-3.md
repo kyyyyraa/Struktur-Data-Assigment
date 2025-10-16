@@ -214,13 +214,13 @@ penjelasan singkat  3
 Program ketiga dibuat untuk mengelola dua buah array 2 dimensi berukuran 3x3 dan dua buah pointer integer. Program ini memiliki beberapa fungsi penting, yaitu tampilArray() untuk menampilkan isi array 2D secara rapi, tukarElemen() untuk menukar nilai pada posisi tertentu antara dua array 2D, dan tukarPointer() untuk menukar isi dua variabel yang ditunjuk oleh pointer. Pada fungsi utama (main()), dua array diinisialisasi dan ditampilkan terlebih dahulu, kemudian dilakukan proses penukaran nilai baik melalui fungsi tukarElemen() maupun dengan tukarPointer(). Hasil akhirnya menampilkan perubahan isi array setelah penukaran. Program ini memperlihatkan bagaimana pointer dan array 2 dimensi dapat digunakan bersama untuk memanipulasi data secara langsung di memori.
 
 ##### Output 1
-![Screenshot Output 1](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-2/Output-3-1.jpg)
+![Screenshot Output 1](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-3/Output-3-1.jpg)
 
 ##### Output 2
-![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-2/Output-3-2.jpg)
+![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-3/Output-3-2.jpg)
 
 ##### Output 3
-![Screenshot Output 3](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-2/Output-3-3.jpg)
+![Screenshot Output 3](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-3/Output-3-3.jpg)
 
 
 ## Kesimpulan
@@ -232,3 +232,4 @@ Program ketiga dibuat untuk mengelola dua buah array 2 dimensi berukuran 3x3 dan
 Algoritma dan Struktur Data. Kaizen Media Publishing.
 
 <br>
+
