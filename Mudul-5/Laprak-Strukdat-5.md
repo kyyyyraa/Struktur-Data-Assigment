@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 5 - Singly Linked List (Bagian Kedua)</h1>
-<p align="center">Pamela Sandra Amelia Br Ginting - 103112430228</p>
+<p align="center">Muhammad Zacky Permana - 103112430228</p>
 
 ## Dasar Teori
 
@@ -575,7 +575,7 @@ int main() {
 ```
 ### 2. Hasil ADT Singly Linked list
 ### Output:
-![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-5/unguided/Output-5-1.jpg)
+![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Mudul-5/Output-5-1.jpeg)
 
 
 Kode di atas digunakan untuk mempelajari dan menerapkan konsep dasar struktur data Linked List (daftar berantai tunggal) dalam bahasa C++.
