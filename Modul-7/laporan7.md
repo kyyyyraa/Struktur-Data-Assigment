@@ -528,7 +528,7 @@ int main() {
 
 ```
 ### Output soal 1 :
-![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-7/Output-7-1.jpg)
+![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-7/Output-7-1.jpeg)
 
 
 Program ini mengimplementasikan struktur Stack dengan media array sebagai penyimpanan datanya. Proses penambahan elemen dilakukan melalui fungsi push, sedangkan penghapusan elemen puncak menggunakan fungsi pop. Berdasarkan skenario tersebut, operasi pop dijalankan untuk mengeliminasi nilai yang terakhir dimasukkan, yaitu angka 8 dan 3, sehingga dari total enam data yang diinput, kini hanya tersisa empat elemen di dalam tumpukan. Untuk penyajian datanya, program menyertakan fungsi balikstack guna memproses urutan elemen secara terbalik, yang kemudian hasilnya ditampilkan ke layar menggunakan fungsi printInfo.
@@ -667,7 +667,7 @@ int main() {
 
 ```
 ### Output 2:
-![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-7/Output-7-2.jpg)
+![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-7/Output-7-2.jpeg)
 
 
 Program ini mengimplementasikan struktur Stack menggunakan media array, namun dengan modifikasi khusus pada proses inputnya melalui fungsi pushAscending. Fungsi ini secara otomatis memposisikan data yang masuk agar tumpukan selalu tersusun rapi dari nilai terkecil hingga terbesar. Setelah data terurut, hasilnya ditampilkan ke layar menggunakan fungsi printInfo. Selain itu, program menyediakan fungsionalitas balikStack untuk memutar urutan elemen tumpukan, yang kemudian hasilnya dipresentasikan kembali melalui fungsi printInfo guna menunjukkan perubahan urutan tersebut.
@@ -815,7 +815,7 @@ int main() {
 
 ```
 ### Output 3:
-![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-7/Output-7-3.jpg)
+![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-7/Output-7-3.jpeg)
 
 
 Program ini mengonstruksi struktur Stack menggunakan media array, di mana pengguna diberikan keleluasaan untuk menginput sejumlah data secara beruntun hingga proses dihentikan dengan menekan tombol Enter. Berbeda dengan pendekatan konvensional, sistem ini tidak memanggil fungsi push secara eksplisit untuk setiap data. Sebagai gantinya, program memanfaatkan mekanisme getInputStream untuk menangkap aliran data hingga batas kapasitas array terpenuhi. Selain itu, program ini dilengkapi dengan fitur balikStack untuk memutar urutan elemen tumpukan, yang kemudian hasilnya dipresentasikan ke layar melalui fungsi printInfo.
