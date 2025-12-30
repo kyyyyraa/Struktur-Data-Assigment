@@ -951,7 +951,7 @@ int main(){
 ```
 
 ### Output soal 2 :
-![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-13/Output-13-2.jpg)
+![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-13/Output-13-2.jpeg)
 
 
 Program ini mengaplikasikan struktur Multi Linked List yang dirancang agar setiap node induk memiliki kemampuan untuk menampung beberapa node anak sekaligus. Sistem ini memfasilitasi manajemen data secara komprehensif, mencakup prosedur penambahan, penghapusan, serta penyajian informasi baik dari kategori induk maupun kategori anak secara sistematis dan terorganisir.
@@ -1199,7 +1199,7 @@ int main() {
 
 
 ### Output:
-![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-13/Output-13-3.jpg)
+![Screenshot Output 2](https://github.com/kyyyyraa/Struktur-Data-Assigment/blob/main/Modul-13/Output-13-3.jpeg)
 
 Program ini mengaplikasikan struktur Circular Singly Linked List, yaitu model daftar berantai di mana penunjuk (next) pada elemen terakhir tidak bernilai Nil, melainkan diarahkan kembali untuk menunjuk ke elemen pertama. Sistem ini memfasilitasi berbagai operasi manajemen data, termasuk penyisipan elemen baru di posisi awal, posisi akhir, maupun di posisi tertentu setelah node yang sudah ada. Selain itu, tersedia fitur pencarian data spesifik berdasarkan NIM mahasiswa serta fungsi untuk memvisualisasikan seluruh daftar data secara berurutan.
 
